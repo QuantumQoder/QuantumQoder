@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @QuantumQoder (Pratik Das)
-- 👀 I’m interested in the advancements of quantum technologies, including computing, networking, machine learning, sensing and developing quantum algorithms, with their implementations in real-world scenarios.
-- 🌱 My technical skillset encompasses programming languages like [Python](https://www.python.org), [Java](https://www.java.com/en/) and [C++](https://isocpp.org), including quantum SDKs like [Qiskit](https://qiskit.org), [QuTIP](https://qutip.org), [StrawberryFields](https://strawberryfields.ai), [Pennylane](https://pennylane.ai) and [Cirq](https://quantumai.google/cirq). I'm also proficient in quantum programming languages like [Silq](https://silq.ethz.ch/#) with some level of expertise in [Q#](https://learn.microsoft.com/en-us/azure/quantum/). I also possess a basic understanding of machine learning modules, such as [PyTorch](https://pytorch.org) and [TensorFlow](https://www.tensorflow.org).
-- 💞️ I’m looking to collaborate on any of the topics related to quantum information and computation.
+- 👀 I’m interested in the advancements of machine learning and quantum technologies with their performance in real-world scenarios.
+- 🌱 My technical skillset encompasses programming languages like [C++](https://isocpp.org), [Python](https://www.python.org) and [Java](https://www.java.com/en/) among many others, and quantum SDKs such as [Qiskit](https://qiskit.org), [QuTIP](https://qutip.org), [Mitiq](https://mitiq.readthedocs.io/en/stable/), [Pennylane](https://pennylane.ai) and [Cirq](https://quantumai.google/cirq). With a solid understanding of machine learning frameworks, I'm proficient in related modules like [PyTorch](https://pytorch.org) and [TensorFlow](https://www.tensorflow.org).
+- 💞️ I’m looking to collaborate on projects related to machine learning & generative a.i., as well as in quantum computations & simulations. I also want to reinforce my C++-OOP skills, so a collaboration in embedded systems and C++ software development would be be instrumental.
 - 📫 How to reach me through linkedIn (https://www.linkedin.com/in/pratik-das-09135420a)
 
 <!---

@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/78647354?v=4" align="right" style="height: 50%" href="https://github.com/quantumqoder">
+<img src="https://avatars.githubusercontent.com/u/78647354?v=4" align="right" style="height: 20%" href="https://github.com/quantumqoder">
 
 - 👋 Hi, I’m [@quantumqoder (Pratik Das)](https://github.com/quantumqoder).
 - 👀 I’m interested in the advancements of machine learning and quantum technologies with their performance in real-world scenarios.

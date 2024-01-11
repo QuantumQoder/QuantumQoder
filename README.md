@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="https://github.com/quantumqoder">
+    <img src="https://avatars.githubusercontent.com/u/78647354?v=4" height="100">
+  </a>
+  <h1 align="center"><a href="https://github.com/TheAlgorithms/">The Algorithms</a> Official Website</h1>
+</p>
+
 - 👋 Hi, I’m [@quantumqoder (Pratik Das)](https://github.com/quantumqoder).
 - 👀 I’m interested in the advancements of machine learning and quantum technologies with their performance in real-world scenarios.
 - 🌱 My technical skillset encompasses programming languages like [C++](https://isocpp.org), [Python](https://www.python.org) and [Java](https://www.java.com/en/) among many others, and quantum SDKs such as [Qiskit](https://qiskit.org), [QuTIP](https://qutip.org), [Mitiq](https://mitiq.readthedocs.io/en/stable/), [Pennylane](https://pennylane.ai) and [Cirq](https://quantumai.google/cirq). With a solid understanding of machine learning frameworks, I'm proficient in related modules like [PyTorch](https://pytorch.org) and [TensorFlow](https://www.tensorflow.org).

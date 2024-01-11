@@ -2,7 +2,6 @@
   <a href="https://github.com/quantumqoder">
     <img src="https://avatars.githubusercontent.com/u/78647354?v=4" height="100">
   </a>
-  <h1 align="center"><a href="https://github.com/TheAlgorithms/">The Algorithms</a> Official Website</h1>
 </p>
 
 - 👋 Hi, I’m [@quantumqoder (Pratik Das)](https://github.com/quantumqoder).
